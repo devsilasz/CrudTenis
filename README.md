@@ -26,4 +26,4 @@ Em um aplicativo web PHP e MySQL que segue o padrão MVC, o CRUD seria implement
 
 Em resumo, o CRUD POO MVC em PHP e MySQL combina a estrutura de programação orientada a objetos com o padrão de arquitetura MVC para fornecer uma abordagem organizada e modular para a criação, leitura, atualização e exclusão de dados em um banco de dados usando a linguagem PHP e o banco de dados MySQL.
 
-Siga o passo a passo no LEIAME.txt ao baixar, para saber como utiliza-lo.
+Siga o passo a passo no LEIA.txt ao baixar, para saber como utiliza-lo.
