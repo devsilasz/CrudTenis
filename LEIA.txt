@@ -1,0 +1,22 @@
+1. Baixe e instale o WampServer:
+
+ - Acesse o site oficial do WampServer (http://www.wampserver.com/) e faça o download da versão compatível com o seu sistema operacional.
+ - Execute o arquivo de instalação baixado e siga as instruções para concluir a instalação do WampServer.
+
+2. Inicie o WampServer:
+
+ - Após a instalação, abra o WampServer e aguarde até que o ícone fique verde, indicando que o servidor está em execução corretamente.
+
+3. Configure o banco de dados no phpMyAdmin:
+
+ - Abra o navegador e digite "http://localhost/phpmyadmin" na barra de endereço.
+ - No phpMyAdmin, vá na aba chamada "Importar" e importe o arquivo "poo.sql", para inserir o banco de dados
+
+4. Crie os arquivos PHP para o CRUD:
+
+ - Insira a pasta "crudtenis" dentro da pasta "www" do seu WampServer para o seu aplicativo CRUD.
+
+5. Acesse o aplicativo CRUD:
+
+ - Abra o navegador e digite "http://localhost/crudtenis" na barra de endereço.
+ - Você deve ser capaz de acessar e interagir com o seu aplicativo CRUD por meio do navegador, realizando operações de criação, leitura, atualização e exclusão de dados no banco de dados.
